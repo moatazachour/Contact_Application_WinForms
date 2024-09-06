@@ -1,0 +1,32 @@
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\bin\Debug\Contacts.exe
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\bin\Debug\Contacts.pdb
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.csproj.AssemblyReference.cache
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.frmListAllContacts.resources
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.exe
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.pdb
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\bin\Debug\ContactBusinessLayer.dll
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.csproj.Up2Date
+C:\Users\MOATAZ\Documents\moataz\Course 18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.clsAddEditContact.resources
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\bin\Debug\Contacts.exe.config
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\bin\Debug\Contacts.exe
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\bin\Debug\Contacts.pdb
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\bin\Debug\ContactBusinessLayer.dll
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\bin\Debug\ContactBusinessLayer.pdb
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.csproj.AssemblyReference.cache
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.clsAddEditContact.resources
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.frmListAllContacts.resources
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.csproj.Up2Date
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.exe
+C:\Users\MOATAZ\Documents\moataz\Course18\4. Contacts (ListView Version)\Contacts\obj\Debug\Contacts.pdb
